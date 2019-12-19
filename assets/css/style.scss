@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.current {
+  text-decoration: underline;
+}
+
 img {
   padding: 0;
   max-width: 100%;
