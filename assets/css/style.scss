@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap {
+  a {
+    color: #fff;
+  }
+}
+
 .current {
   text-decoration: underline;
 }
