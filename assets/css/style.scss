@@ -3,7 +3,13 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: 'Georgia', 'Helvetica', sans-serif;
+}
+
 #header_wrap {
+  background: #3e3e42;
+
   a {
     color: #fff;
   }
