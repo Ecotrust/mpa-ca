@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Establishing a Statewide Baseline and Long-Term MPA Monitoring Program for Commercial and Commercial Passenger FIshing Vessel (CPFV) Fisheries in the State of California
 
-You can use the [editor on GitHub](https://github.com/Ecotrust/mpa-ca/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+People are an integral part of the California coastal ecosystem, and we stand to experience impacts and benefits from the newly implemented marine protected area (MPA) network. To understand the dynamic relationship between people and the environment through the lens of MPAs, we need to understand current and historical uses of coastal resources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project will focus on two human uses and their relationships to the MPA network: commercial and commercial passenger fishing vessel (CPFV) fisheries. The goal of the project is to assess the baseline socioeconomic conditions of commercial and CPFV fisheries throughout the state of California. Our team will design an approach to monitor socioeconomic conditions related to fishing to inform long-term MPA monitoring. Results of this study will guide the 10-year management review of California’s MPA network.
 
-### Markdown
+The socioeconomic status of California state fisheries is affected by the complex exchange between regulatory, environmental, and socioeconomic factors. MPAs are one of the many influences that could affect spatial fishing patterns and the economic health of California fisheries. Given this complexity, this project aims to assess commercial and CPFV fisheries across the state using temporal, spatial, and place-based approaches. Combined, these approaches will illustrate economic and spatial changes over time and provide insights on how place-based factors, including MPAs, have played a role in driving observed and experienced socioeconomic changes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Temporal  
 
-```markdown
-Syntax highlighted code block
+We will analyze historical economic trends (e.g., participation rates, landings, revenue) in commercial and CPFV fisheries from 1992 to 2020 and use this time-series data to conduct pre- and post-MPA assessments to describe the current economic status of fisheries.
 
-# Header 1
-## Header 2
-### Header 3
+### Spatial
 
-- Bulleted
-- List
+We will integrate regional level spatial data sets over 12 years to develop a statewide understanding of pre- and post-MPA fishing patterns. From this, we will evaluate how spatial fishing patterns have changed since MPA implementation.
 
-1. Numbered
-2. List
+### Place-based
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ecotrust/mpa-ca/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In Spring and Summer 2020, the project team will engage with the commercial and CPFV fishing community in an on-the-ground focus group tour throughout 24 port complexes in California. To assist this effort, we are developing a ‘Port Community Well-being Assessment Tool’ (i.e., a questionnaire) that will be used to gather quantitative information about the health and well-being of California fisheries in the context of MPAs. Questions from the Tool will guide focus group discussions, which will be used to gain a snapshot of the socioeconomic conditions of fisheries in California. The focus groups will provide information about fishermen’s perceptions of MPAs and the ways fishermen have been affected by the MPAs since implementation.
