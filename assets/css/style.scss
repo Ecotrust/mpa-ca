@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+img {
+  padding: 0;
+  max-width: 100%;
+}
+
 section {
   border-bottom: 1px solid #999;
   margin-bottom: 2rem;
@@ -15,11 +20,6 @@ section {
   display: inline-block;
   margin: 0 10% 0 0;
   width: 30%;
-
-  img {
-    padding: 0;
-    max-width: 100%;
-  }
 }
 
 .right {
@@ -27,4 +27,8 @@ section {
   margin: 0 -4px;
   vertical-align: top;
   width: 60%;
+
+  p {
+    font-size: .875em;
+  }
 }
