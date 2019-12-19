@@ -3,6 +3,23 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background: pink;
+section {
+  border-bottom: 1px solid #999;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  position: relative;
+  width: 100%;
+}
+
+.left {
+  display: inline-block;
+  margin: 0 10% 0 0;
+  width: 30%;
+}
+
+.right {
+  display: inline-block;
+  margin: 0 -4px;
+  vertical-align: top;
+  width: 60%;
 }
