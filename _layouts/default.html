@@ -22,8 +22,12 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
 
           <div id="project_tagline">
-            <a href="/" class="current">Home</a>
-            <a href="/bios.html" class="">Bios</a>
+            <div class="pure-menu pure-menu-horizontal">
+                <ul class="pure-menu-list">
+                    <li class="pure-menu-item pure-menu-selected"><a href="/" class="pure-menu-link">Home</a></li>
+                    <li class="pure-menu-item"><a href="/bios.html" class="pure-menu-link">Bios</a></li>
+                </ul>
+            </div>
           </div>
 
           {% if site.show_downloads %}
