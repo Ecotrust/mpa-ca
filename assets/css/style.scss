@@ -30,7 +30,7 @@ h2 {
 }
 
 h3 {
-  color: #111;
+  color: #555;
   font-size: 1em;
   font-weight: bold;
   letter-spacing: 0.0125em;
@@ -53,6 +53,15 @@ section {
 
 #implementation {
   background: #fff;
+}
+
+#inner-inner {
+  font-size: .875em;
+
+  p {
+    color: #555;
+    margin-bottom: 2rem;
+  }
 }
 
 #header_wrap {
