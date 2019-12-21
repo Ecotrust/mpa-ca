@@ -21,6 +21,7 @@ h1#project_title {
 }
 
 h2 {
+  background: none;
   border-bottom: 1px dashed #5f7e82;
   color: #262927;
   font-size: .875em;
@@ -55,7 +56,7 @@ section {
   background: #fff;
 }
 
-#inner-inner {
+.inner-inner {
   font-size: .875em;
 
   p {
