@@ -21,7 +21,8 @@ h1#project_title {
 }
 
 h2 {
-  color: #585459;
+  border-bottom: 1px dashed #5f7e82;
+  color: #262927;
   font-size: 14px;
   font-weight: 900;
   letter-spacing: 0.025em;
@@ -29,6 +30,10 @@ h2 {
 
 section {
   padding: 20px 0;
+
+  p {
+    font-size: 1em;
+  }
 }
 
 #focus {
