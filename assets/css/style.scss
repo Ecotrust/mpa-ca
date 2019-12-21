@@ -14,7 +14,7 @@ h1 {
 }
 
 h1#project_title {
-  color: #94b1b5;
+  color: #dcf7fb;
   font-size: 32px;
   margin: 0 0 20px 0;
   text-shadow: none;
@@ -23,16 +23,27 @@ h1#project_title {
 h2 {
   border-bottom: 1px dashed #5f7e82;
   color: #262927;
-  font-size: 14px;
+  font-size: .875em;
   font-weight: 900;
   letter-spacing: 0.025em;
+  margin-bottom: 2rem;
+}
+
+h3 {
+  color: #111;
+  font-size: 1em;
+  font-weight: bold;
+  letter-spacing: 0.0125em;
+  margin: 1rem 0;
 }
 
 section {
   padding: 20px 0;
 
   p {
-    font-size: 1em;
+    color: #111;
+    font-size: 1.3125em;
+    line-height: 1.5;
   }
 }
 
