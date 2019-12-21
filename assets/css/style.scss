@@ -52,6 +52,10 @@ section {
   }
 }
 
+#main_content_wrap {
+  border: none;
+}
+
 #focus {
   background: #ccd9e6;
 }
@@ -143,6 +147,10 @@ img {
   color: #666;
   font-size: .5em;
 
+  p {
+    color: #666;
+  }
+  
   a {
     color: #333;
   }
